@@ -1,0 +1,19 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr" rows="auto" style="border: 1px solid #000000;background-color:#fff;max-width:450px;"]
+
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 2" style="padding-left:10px;padding-top:10px;"]
+
+About The Author
+
+insert your photo here
+
+Maddison Butler, 19, magical author
+
+Maddison Butler is a magical man from Brisbane who can only sleep by day. Physically, he is built like a brick. His top quality is that he is particularly interesting.
+
+insert social sharing icons here
+
+[TheChamp-Sharing style="text-align:center;"]
+
+[/wpbtr_cell]
+
+[/wpbtr_grid]

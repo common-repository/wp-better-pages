@@ -1,0 +1,16 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr" rows="auto auto" style="max-width:400px;border: 1px solid #000000;background-color:#fff;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+insert photo here
+
+Most Alpha Male, 25 Yrs. Old
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id risus et velit mattis eleifend sit amet sit amet mi. Cras convallis vehicula tempus. Duis sollicitudin nec dolor in porta.
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="2 / 1 / 3 / 2" style="padding:10px;"]
+
+[wd_hustle id="33" type="embedded"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

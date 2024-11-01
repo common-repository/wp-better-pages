@@ -1,0 +1,18 @@
+[wpbtr_grid class="wpbtrclass" columns="1.3fr .7fr" rows="auto" style=""]
+[wpbtr_cell class="wpbtrclass-1" area="\31 " style="padding:10px;background-color:#e15e11"]
+
+insert logo here
+
+Create Elegant User Interface Sections For Free
+
+Save time and money with this plugin - Just download, install and insert the shortcode for this Call To Action section.
+
+[su_button style="flat" background="#fff" color="#474747" size="12" radius="0"]Download Now[/su_button]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="\32 " style="background-color:#e1e1e1;padding-top:10px;"]
+
+insert image here
+
+[/wpbtr_cell]
+[/wpbtr_grid]

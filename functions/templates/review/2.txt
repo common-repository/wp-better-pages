@@ -1,0 +1,22 @@
+[wpbtr_grid class="wpbtrclass" columns="0.7fr 1.3fr" rows="auto" style="border: 1px solid #000000;background-color: #fff"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+insert photo here
+
+John Doe
+
+Website : Wpbetterpages.com
+
+Quality : [wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="star-half-alt" size="1x" color="gold"][wpfa5r icon="star" size="1x" color="gold"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 3" style="padding:10px;"]
+
+Date Reviewed : 24 June, 2019
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus; Immo videri fortasse. Si enim ita est, vide ne facinus facias, cum mori suadeas. Duo Reges: constructio interrete. Bonum negas esse divitias, praeposìtum esse dicis?
+
+[su_button url="#" target="blank" style="flat" background="#f0c14b" color="#FFFFFF" size="8"]Buy Now![/su_button]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

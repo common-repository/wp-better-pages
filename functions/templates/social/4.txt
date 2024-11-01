@@ -1,0 +1,32 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr 1fr 1fr" rows="auto auto" style=""]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:10px;margin-right:7px;margin-bottom:7px;background-color: #4ba2eb;"]
+
+[wpfa5b icon="fa-twitter-square" size="3x" color="white"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 3" style="padding:10px;margin-right:7px;margin-bottom:7px;background-color: #334f8e;"]
+
+[wpfa5b icon="fa-facebook-square" size="3x" color="white"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="1 / 3 / 2 / 4" style="padding:10px;margin-right:7px;margin-bottom:7px;background-color: #2c5b8e;"]
+
+[wpfa5b icon="fa-reddit-square" size="3x" color="white"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-4" area="2 / 1 / 3 / 2" style="padding:10px;margin-right:7px;margin-bottom:7px;background-color: #0070ad;"]
+
+[wpfa5b icon="fa-linkedin" size="3x" color="white"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-5" area="2 / 2 / 3 / 3" style="padding:10px;margin-right:7px;margin-bottom:7px;background-color: #c41c23;"]
+
+[wpfa5b icon="fa-pinterest-square" size="3x" color="white"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-6" area="2 / 3 / 3 / 4" style="padding:10px;margin-right:7px;margin-bottom:7px;background-color: #00BCD4;"]
+
+[wpfa5b icon="fa-instagram" size="3x" color="white"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

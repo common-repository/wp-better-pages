@@ -1,0 +1,22 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr 1fr" rows="auto auto" style="max-width:400px;border: 1px solid #000000;background-color:#fff;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 3" style="padding:10px;"]
+
+Download Our Free Themes & Plugins
+There are so many amazing things you can do with WordPress widgets. You can use them to display popular posts, email signup forms, get more Facebook likes, and much more.
+
+License details | Why buy from us
+
+Price is in US dollars. Price displayed excludes sales tax.
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="2 / 1 / 3 / 2" style="padding:10px;"]
+
+[su_button style="flat" background="#82b440" color="#ffffff" size="7" radius="0"]Download Now[/su_button]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="2 / 2 / 3 / 3" style="padding:10px;"]
+
+[su_button style="flat" background="#787878" color="#ffffff" size="7" radius="0"]Download Now[/su_button]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

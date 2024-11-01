@@ -1,0 +1,17 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr" rows="auto" style="margin-left:10px;background-color:#fff;box-shadow:rgba(23,43,99,.24) 0 7px 28px;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style=""]
+
+Learn How To Build Deal Boxes Easily
+
+Namecheap, our favourite company for domain name registrations will do it’s regular Black Friday hourly deals specials.
+
+[ycd_countdown id=998]
+
+[su_spacer size="4"]
+
+[su_button url="#" target="blank" style="flat" background="#da463b" color="#FFFFFF" size="12"]Get This Deal![/su_button]
+
+- Once this deal is gone, it's gone. So you might want to get this ASAP.
+
+[/wpbtr_cell]
+[/wpbtr_grid]

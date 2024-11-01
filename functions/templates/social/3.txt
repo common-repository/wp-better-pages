@@ -1,0 +1,22 @@
+[wpbtr_grid class="wpbtrclass" columns=".7fr 1.3fr" rows="auto auto auto" style="max-width:500px;border: 1px solid #e7e7e7;background-color: #fff;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 4 / 2" style="padding:10px;border-right:1px solid #e1e1e1;"]
+
+Contact Us
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 3" style="padding:10px;"]
+
+[wpfa5b icon="fa-twitter-square" size="3x" color="orange"] Twitter.com/Page_URL
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="2 / 2 / 3 / 3" style="padding:10px;"]
+
+[wpfa5b icon="fa-instagram" size="3x" color="darkgreen"] Instagram.com/Page_URL
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-4" area="3 / 2 / 4 / 3" style="padding:10px;"]
+
+[wpfa5b icon="fa-facebook-square" size="3x" color="grey"] Facebook.com/Page_URL
+
+[/wpbtr_cell]
+[/wpbtr_grid]

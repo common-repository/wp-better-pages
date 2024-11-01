@@ -1,0 +1,15 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr" rows="auto" style="max-width:550px;padding:10px;background-color:#e81839;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style=""]
+
+Build Social Media Sections For Free
+
+[wpfa5b icon="fa-facebook-square" size="2x" color="#fff"] Facebook.com/Your-page-url
+
+[wpfa5b icon="fa-instagram" size="2x" color="#fff"] Instagram.com/Your-page-url
+
+[wpfa5b icon="fa-pinterest-square" size="2x" color="#fff"] Pinterest.com/Your-page-url
+
+[wpfa5b icon="fa-twitter-square" size="2x" color="#fff"] Twitter.com/Your-page-url
+
+[/wpbtr_cell]
+[/wpbtr_grid]

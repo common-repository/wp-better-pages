@@ -1,0 +1,76 @@
+[su_tabs]
+
+[su_tab title="About Me" disabled="no" anchor="" url="" target="blank" class=""]
+
+[wpbtr_grid class="pPSPhDxs" columns="0.5fr 1.5fr" rows="auto" style=""]
+
+[wpbtr_cell class="pPSPhDxs-1" area="1 / 1 / 2 / 2" style="padding-left:20px;padding-top:20px;"]
+
+insert your photo here
+
+[/wpbtr_cell]
+
+[wpbtr_cell class="pPSPhDxs-2" area="1 / 2 / 2 / 3" style="padding-left:20px;padding-top:20px;"]
+
+Maddison Butler, 19, magical author
+
+Author @ Wpbetterpages.com
+
+Maddison Butler is a magical man from Brisbane who can only sleep by day. Physically, he is built like a brick. His top quality is that he is particularly interesting. He is striving to redeem himself after pushing an old lady under a bus.
+
+social networking icons here : 
+
+[TheChamp-Sharing style="text-align:center;"]
+
+[/wpbtr_cell]
+
+[/wpbtr_grid]
+
+[/su_tab]
+
+[su_tab title="Latest Posts" disabled="no" anchor="" url="" target="blank" class=""]
+
+[wpbtr_grid class="pPSPhDs" columns="1fr 1fr" rows="auto" style=""]
+
+[wpbtr_cell class="pPSPhDs-1" area="1 / 1 / 2 / 2" style=""]
+
+Make Author Bios With WP Better Pages Plugin
+Make CTA Section With WP Better Pages Plugin
+Make Deals And Coupons With WP Better Pages Plugin
+Make Landing Pages With WP Better Pages Plugin
+
+[/wpbtr_cell]
+
+[wpbtr_cell class="pPSPhDs-2" area="1 / 2 / 2 / 3" style=""]
+
+Make Author Bios With WP Better Pages Plugin
+Make CTA Section With WP Better Pages Plugin
+Make Deals And Coupons With WP Better Pages Plugin
+Make Landing Pages With WP Better Pages Plugin
+
+[/wpbtr_cell]
+
+[/wpbtr_grid]
+
+[/su_tab]
+
+[su_tab title="Subscribe" disabled="no" anchor="" url="" target="blank" class=""]
+
+[wpbtr_grid class="DgddmgoF" columns="0.4fr 1.6fr" rows="1fr" style="background-color:#8BC34A;"]
+[wpbtr_cell class="DgddmgoF-1" area="1 / 1 / 2 / 2" style="padding-left:10px;padding-top:10px;"]
+
+insert photo here
+
+[/wpbtr_cell]
+[wpbtr_cell class="DgddmgoF-2" area="1 / 2 / 2 / 3" style="padding-top:10px;"]
+
+insert email boxes
+
+[wd_hustle id="3-field" type="embedded"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+[/su_tab]
+
+[/su_tabs]

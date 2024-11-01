@@ -1,0 +1,22 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr 2fr" rows="auto auto auto" style=""]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 3" style="background-color:#212121;padding:20px;"]Hi, I am: John Doe[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="2 / 1 / 4 / 2" style="background-color:#f8c536;padding:20px;"]
+
+insert your photo here
+
+Maddison Butler, 19, Magical Author
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-5" area="2 / 2 / 4 / 3" style="background-color:#f8c536;padding:20px;"]
+
+Make Author Bios With WP Better Pages Plugin
+Make CTA Section With WP Better Pages Plugin
+Make Deals And Coupons With WP Better Pages Plugin
+Make Landing Pages With WP Better Pages Plugin
+Make Optin Section With WP Better Pages Plugin
+
+insert social sharing icons here
+[TheChamp-Sharing style="text-align:center;"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

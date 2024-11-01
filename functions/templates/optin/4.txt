@@ -1,0 +1,15 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr" rows="auto" style="max-width: 350px;border: 1px solid #bdbdbd;color: #000000;background-color:#f57454;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:20px;"]
+
+Get More Interesting Things In Your Inbox
+
+Subscribe to our mailing list right now by entering your email below.
+
+insert optin form here
+
+[wd_hustle id="33" type="embedded"]
+
+By clicking on submit button you agree with our Privacy Policy
+
+[/wpbtr_cell]
+[/wpbtr_grid]

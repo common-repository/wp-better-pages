@@ -1,0 +1,22 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr" rows="auto auto auto" style="margin-left:8px;background-color:#f7f7f7;box-shadow:rgba(23,43,99,.24) 0 7px 28px;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="min-height:10px;max-height:10px;background-color:#4c9ba1;"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="2 / 1 / 3 / 2" style="padding:10px;"]
+
+Want To Make Good Looking Optins For Free?
+
+Then just download wpbetterpages plugin and install it on your blog. Insert the shortcode and then see the magic unfold. Elegant looking optin sections for free.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+insert optin form
+
+[wd_hustle id="33" type="embedded"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="3 / 1 / 4 / 2" style="min-height:10px;max-height:10px;background-color:#f8b937;"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

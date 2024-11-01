@@ -1,0 +1,12 @@
+[wpbtr_grid class="wpbtrclass" columns="1.4fr 0.6fr" rows="auto" style="border: 1px solid #fff; padding-top: 10px; padding-left: 10px; color: #fff; background-color: #8bc34a"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style=""]
+
+Free Download: A Hand curated list of the best affiliate marketing tools to grow your site FAST.
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 3" style="justify-self: center; align-self: center;"]
+
+[su_button url="#" target="blank" style="flat" background="#e91e63" color="#FFFFFF" size="12"]Click Me![/su_button]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

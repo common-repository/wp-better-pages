@@ -1,0 +1,30 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr 1fr" rows="auto auto auto" style="margin-left:10px;background-color:#fff;box-shadow:rgba(23,43,99,.24) 0 7px 28px;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 3" style="padding:10px;"]
+
+WP Better Pages Plugin
+
+Namecheap, our favourite company for domain name registrations will do it’s regular Black Friday hourly deals specials. Check in every hour and get up to 98% off domain names and 97% off web hosting.
+
+[su_button url="#" target="blank" style="flat" background="#3f7bf3" color="#FFFFFF" size="12"]Get This Deal![/su_button]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="2 / 1 / 3 / 3" style="background-color:#d34e33;"]
+
+100% Discount If You Download Right Now
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="3 / 1 / 4 / 2" style=""]
+
+insert countdown here
+[ycd_countdown id=998]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-4" area="3 / 2 / 4 / 3" style=""]
+
+Actual Price - $25,000
+
+insert social sharing here
+[TheChamp-Sharing style="text-align:center;"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

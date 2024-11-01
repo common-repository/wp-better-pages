@@ -1,0 +1,47 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr 1fr 1fr" rows="auto auto auto" style="max-width:400px;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+[wpfa5b icon="fa-facebook-square" size="6x" color="blue"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 3" style="padding:10px;"]
+
+[wpfa5b icon="fa-instagram" size="6x" color="black"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="1 / 3 / 2 / 4" style="padding:10px;"]
+
+[wpfa5b icon="fa-pinterest-square" size="6x" color="red"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-4" area="2 / 1 / 3 / 2" style="padding:10px;"]
+
+[wpfa5b icon="fa-twitter-square" size="6x" color="blue"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-5" area="2 / 2 / 3 / 3" style="padding:10px;"]
+
+[wpfa5b icon="fa-whatsapp-square" size="6x" color="green"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-6" area="2 / 3 / 3 / 4" style="padding:10px;"]
+
+[wpfa5b icon="fa-snapchat-square" size="6x" color="yellow"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-7" area="3 / 1 / 4 / 2" style="padding:10px;"]
+
+[wpfa5b icon="fa-android" size="6x" color="#7cc200"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-8" area="3 / 2 / 4 / 3" style="padding:10px;"]
+
+[wpfa5b icon="fa-skype" size="6x" color="#00b6ee"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-9" area="3 / 3 / 4 / 4" style="padding:10px;"]
+
+[wpfa5b icon="fa-reddit-square" size="6x" color="red"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

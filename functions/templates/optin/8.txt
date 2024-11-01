@@ -1,0 +1,18 @@
+[wpbtr_grid class="wpbtrclass" columns="1.4fr 0.6fr" rows="auto" style="margin-left:8px;border: 1px solid #bdbdbd;background-color:#f66d39;box-shadow:rgba(23,43,99,.24) 0 7px 28px;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:20px;"]
+
+insert image here
+
+Read My Blog For All Free Information
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 3" style="display: flex;align-items: center;justify-content: center;flex-direction: column;background-color:#3b383c;"]
+
+insert optin form here
+
+[wd_hustle id="3-field" type="embedded"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

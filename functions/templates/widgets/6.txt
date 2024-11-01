@@ -1,0 +1,88 @@
+[su_tabs active="3"]
+
+[su_tab title="About Me" disabled="no" anchor="" url="" target="blank" class=""]
+
+[wpbtr_grid class="X0ZM" columns="1fr" rows="auto auto" style="border: 1px solid #000000;background-color:#fff;"]
+[wpbtr_cell class="X0ZM-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+insert photo here
+
+Most Alpha Male, 25 Yrs. Old
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id risus et velit mattis eleifend sit amet sit amet mi. Cras convallis vehicula tempus. Duis sollicitudin nec dolor in porta.
+
+[/wpbtr_cell]
+[wpbtr_cell class="X0ZM-2" area="2 / 1 / 3 / 2" style="padding:10px;"]
+
+[wd_hustle id="33" type="embedded"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+[/su_tab]
+
+[su_tab title="Latest Posts" disabled="no" anchor="" url="" target="blank" class=""]
+
+[wpbtr_grid class="CXDE2Yjm" columns="1fr" rows="auto auto auto auto auto" style="border: 1px solid #000000;"]
+[wpbtr_cell class="CXDE2Yjm-1" area="1 / 1 / 2 / 2" style="padding:10px;background-color:#ff4d54;"]
+
+Top 20 Posts About Why This Plugin Is Awesome
+
+[/wpbtr_cell]
+[wpbtr_cell class="CXDE2Yjm-2" area="2 / 1 / 3 / 2" style="padding:10px;background-color:#ff764d;"]
+
+Top 20 Posts About Why This Plugin Is Awesome
+
+[/wpbtr_cell]
+[wpbtr_cell class="CXDE2Yjm-3" area="3 / 1 / 4 / 2" style="padding:10px;background-color:#ffdd4d;"]
+
+Top 20 Posts About Why This Plugin Is Awesome
+
+[/wpbtr_cell]
+[wpbtr_cell class="CXDE2Yjm-4" area="4 / 1 / 5 / 2" style="padding:10px;background-color:#c7f260;"]
+
+Top 20 Posts About Why This Plugin Is Awesome
+
+[/wpbtr_cell]
+[wpbtr_cell class="CXDE2Yjm-5" area="5 / 1 / 6 / 2" style="padding:10px;background-color:#34c9f6;"]
+
+Top 20 Posts About Why This Plugin Is Awesome
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+[/su_tab]
+
+[su_tab title="Top Rated Posts" disabled="no" anchor="" url="" target="blank" class=""]
+
+[wpbtr_grid class="Oqy9ak4T" columns="1fr" rows="auto auto auto auto auto" style="border: 1px solid #000000;background-color:#fff;"]
+[wpbtr_cell class="Oqy9ak4T-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+Top 20 Posts About Why This Plugin Is Awesome : [wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="star-half-alt" size="1x" color="gold"][wpfa5r icon="star" size="1x" color="gold"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="Oqy9ak4T-2" area="2 / 1 / 3 / 2" style="padding:10px;"]
+
+Top 20 Posts About Why This Plugin Is Awesome : [wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="star-half-alt" size="1x" color="gold"][wpfa5r icon="star" size="1x" color="gold"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="Oqy9ak4T-3" area="3 / 1 / 4 / 2" style="padding:10px;"]
+
+Top 20 Posts About Why This Plugin Is Awesome : [wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="star-half-alt" size="1x" color="gold"][wpfa5r icon="star" size="1x" color="gold"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="Oqy9ak4T-4" area="4 / 1 / 5 / 2" style="padding:10px;"]
+
+Top 20 Posts About Why This Plugin Is Awesome : [wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="star-half-alt" size="1x" color="gold"][wpfa5r icon="star" size="1x" color="gold"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="Oqy9ak4T-5" area="5 / 1 / 6 / 2" style="padding:10px;"]
+
+Top 20 Posts About Why This Plugin Is Awesome : [wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="star-half-alt" size="1x" color="gold"][wpfa5r icon="star" size="1x" color="gold"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+[/su_tab]
+
+[/su_tabs]

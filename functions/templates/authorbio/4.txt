@@ -1,0 +1,21 @@
+[wpbtr_grid class="wpbtrclass" columns="0.7fr 2.3fr" rows="auto" style="background-color:#fff;"]
+
+[wpbtr_cell class="wpbtrclass-2" area="1 / 1 / 2 / 2" style="padding-top:15px;padding-left:10px;"]
+
+insert your photo here
+
+[su_button style="flat" background="#f0c14b" color="#000000" size="6"]Contact Me[/su_button]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="1 / 2 / 2 / 3" style="padding-top:15px;padding-left:10px;"]
+
+Maddison Butler, 19, magical author
+
+insert social sharing icons here
+
+[TheChamp-Sharing style="text-align:left;"]
+
+Maddison Butler is a magical man from Brisbane who can only sleep by day. Physically, he is built like a brick. His top quality is that he is particularly interesting. He is striving to redeem himself after pushing an old lady under a bus.
+
+[/wpbtr_cell]
+[/wpbtr_grid]

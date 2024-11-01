@@ -1,0 +1,27 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr" rows="auto auto auto auto auto" style="max-width:400px;border: 1px solid #000000;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:10px;background-color:#ff4d54;"]
+
+Top 20 Posts About Why This Plugin Is Awesome
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="2 / 1 / 3 / 2" style="padding:10px;background-color:#ff764d;"]
+
+Top 20 Posts About Why This Plugin Is Awesome
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="3 / 1 / 4 / 2" style="padding:10px;background-color:#ffdd4d;"]
+
+Top 20 Posts About Why This Plugin Is Awesome
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-4" area="4 / 1 / 5 / 2" style="padding:10px;background-color:#c7f260;"]
+
+Top 20 Posts About Why This Plugin Is Awesome
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-5" area="5 / 1 / 6 / 2" style="padding:10px;background-color:#34c9f6;"]
+
+Top 20 Posts About Why This Plugin Is Awesome
+
+[/wpbtr_cell]
+[/wpbtr_grid]

@@ -1,0 +1,24 @@
+[wpbtr_grid class="wpbtrclass" columns="1.2fr 0.8fr" rows="auto" style="border: 1px solid #bdbdbd;background-image: -webkit-linear-gradient(top,#f5f5f5 0,#fff 100%);"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:20px;"]
+
+Sign-up NOW! Increase Your Email Subscribers by 700%!
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+[wpfa5s icon="fa-check" size="1x" color="#65a405"] hello this is a good point
+
+[wpfa5s icon="fa-check" size="1x" color="#65a405"] hello this is a good point
+
+[wpfa5s icon="fa-check" size="1x" color="#65a405"] hello this is a good point
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 3" style="padding:20px;background-color:#65a405;"]
+
+insert optin form here
+
+[wd_hustle id="3-field" type="embedded"]
+
+**Your Information will never be shared
+
+[/wpbtr_cell]
+[/wpbtr_grid]

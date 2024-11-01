@@ -1,0 +1,36 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr 1fr 1fr" rows="auto auto" style="background-color:#e5e5e5;box-shadow:rgba(23,43,99,.24) 0 7px 28px;margin-left:10px;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 4" style=""]
+
+Biggest Black Friday Deal
+
+Mind-Blowing 50% Off Deals On This Page Right Here
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="2 / 1 / 3 / 2" style=""]
+
+[wpfa5s icon="fa-user" size="4x" color="#000000"]
+
+Save 50% In This Sale
+
+Get this offer for a very low price of $1955/Yr.
+
+[su_button url="#" target="blank" style="flat" background="#6bb535" color="#FFFFFF" size="12"]Get This Deal![/su_button]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="2 / 2 / 3 / 3" style=""]
+
+insert image here
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-4" area="2 / 3 / 3 / 4" style=""]
+
+[wpfa5s icon="fa-users" size="4x" color="#000000"]
+
+Save 50% In This Sale
+
+Get this offer for a very low price of $1955/Yr.
+
+[su_button url="#" target="blank" style="flat" background="#6bb535" color="#FFFFFF" size="12"]Get This Deal![/su_button]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

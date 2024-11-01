@@ -1,0 +1,18 @@
+[wpbtr_grid class="wpbtrclass" columns="0.5fr 1.5fr" rows="auto" style="margin-left:8px;background-color:#92bf31;box-shadow:rgba(23,43,99,.24) 0 7px 28px;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+insert image here
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 3" style="padding:10px;"]
+
+Want To Make Good Looking Optins For Free?
+
+Then just download wpbetterpages plugin and install it on your blog.
+
+insert optin form here
+
+[wd_hustle id="33" type="embedded"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

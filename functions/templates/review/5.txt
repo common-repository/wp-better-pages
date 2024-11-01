@@ -1,0 +1,53 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr 1fr 1fr 1fr" rows="auto auto auto" style="border: 1px solid #e7e7e7;background-color: #9C27B0;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+Quality :
+
+[wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="star-half-alt" size="1x" color="gold"][wpfa5r icon="star" size="1x" color="gold"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 3" style="padding:10px;"]
+
+Performance :
+
+[wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="star-half-alt" size="1x" color="gold"][wpfa5r icon="star" size="1x" color="gold"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="1 / 3 / 2 / 4" style="padding:10px;"]
+
+Interface :
+
+[wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="star-half-alt" size="1x" color="gold"][wpfa5r icon="star" size="1x" color="gold"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-4" area="1 / 4 / 2 / 5" style="padding:10px;"]
+
+Summary :
+
+[wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="fa-star" size="1x" color="gold"][wpfa5s icon="star-half-alt" size="1x" color="gold"][wpfa5r icon="star" size="1x" color="gold"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-5" area="2 / 1 / 3 / 2" style="padding:10px;"]
+
+Phone XCVR
+
+insert photo here
+
+Cost - $1500
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-6" area="2 / 2 / 3 / 5" style="padding:10px;"]
+
+Date Reviewed : 24 June, 2019
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim civitas in seditione beata esse potest nec in discordia dominorum domus; Immo videri fortasse. Si enim ita est, vide ne facinus facias, cum mori suadeas. Duo Reges: constructio interrete. Bonum negas esse divitias, praeposìtum esse dicis?
+
+[su_button url="#" target="blank" style="flat" background="White" color="#9C27B0" size="12"]Buy Now![/su_button]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-7" area="3 / 1 / 4 / 5" style="padding:10px;"]
+
+[TheChamp-Sharing style="text-align:center;"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

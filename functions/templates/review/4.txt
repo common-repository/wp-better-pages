@@ -1,0 +1,41 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr 1fr 1fr" rows="auto auto" style="border: 1px solid #e7e7e7;background-color: #fff;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+Phone CVBT Review
+
+Quality : [wpfa5s icon="fa-star" size="1x" color="#38B7EE"][wpfa5s icon="fa-star" size="1x" color="#38B7EE"][wpfa5s icon="fa-star" size="1x" color="#38B7EE"][wpfa5s icon="star-half-alt" size="1x" color="#38B7EE"][wpfa5r icon="star" size="1x" color="#38B7EE"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="1 / 2 / 2 / 3" style="padding:10px;"]
+
+Pros
+
+pro point 1 of using this plugin
+pro point 2 of using this plugin
+pro point 3 of using this plugin
+pro point 4 of using this plugin
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="1 / 3 / 2 / 4" style="padding:10px;"]
+
+Cons
+
+con point 1 of using this plugin
+con point 2 of using this plugin
+con point 3 of using this plugin
+con point 4 of using this plugin
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-4" area="2 / 1 / 3 / 3" style="padding:10px;"]
+
+insert social sharing icons 
+
+[TheChamp-Sharing style="text-align:center;"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-5" area="2 / 3 / 3 / 4" style="padding:10px;"]
+
+[su_button url="#" target="blank" style="flat" background="orange" color="#FFFFFF" size="9"]Read My Review![/su_button]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

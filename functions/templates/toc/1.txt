@@ -1,0 +1,27 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr" rows="auto auto auto auto auto" style="max-width:400px;padding:10px;background-color:#fff;border: 1px solid #DFE1E5;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:10px;border: 1px solid #DFE1E5;"]
+
+Table Of Contents
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-2" area="2 / 1 / 3 / 2" style="padding:10px;border: 1px solid #DFE1E5;"]
+
+1. Put heading 1 here [wpfa5s icon="fa-arrow-right" size="1x" color="#000000"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-3" area="3 / 1 / 4 / 2" style="padding:10px;border: 1px solid #DFE1E5;"]
+
+2. Put heading 2 here [wpfa5s icon="fa-arrow-right" size="1x" color="#000000"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-4" area="4 / 1 / 5 / 2" style="padding:10px;border: 1px solid #DFE1E5;"]
+
+3. Put heading 3 here [wpfa5s icon="fa-arrow-right" size="1x" color="#000000"]
+
+[/wpbtr_cell]
+[wpbtr_cell class="wpbtrclass-5" area="5 / 1 / 6 / 2" style="padding:10px;border: 1px solid #DFE1E5;"]
+
+4. Put heading 4 here [wpfa5s icon="fa-arrow-right" size="1x" color="#000000"] 
+
+[/wpbtr_cell]
+[/wpbtr_grid]

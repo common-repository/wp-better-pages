@@ -1,0 +1,265 @@
+template : wp better top logo
+
+settings : 
+
+Page Background Color :	#e1e1e1
+Page CSS Style :	
+Logo Background Margin :	10px 40px 10px 40px
+Logo CSS Style :	
+Logo Image :	https://wpbetterpages.com/wp-content/uploads/2019/06/Logo.png
+Logo Padding :	10px
+Logo Background Color :	#ffff99
+Container Padding :	0px
+Container Margin :	0px 40px 0px 40px
+Container CSS :	
+Container Background Color :	#fff
+
+
+
+page text :
+
+[wpbtr_rows class="lxNMWXFK" rows="auto" style="background-color:#f5f8fb"]
+[wpbtr_rowchild class="lxNMWXFK-1" style=""]
+
+[wpbtr_grid class="xQn5xkDa" columns=".6fr 1.4fr" rows="auto auto" style="max-width:1100px;margin:auto;"]
+[wpbtr_cell class="xQn5xkDa-1" area="1 / 1 / 2 / 3" style="padding:10px;"]
+
+Why Almost Everything You Read On Internet is Wrong And How To Read Good Things...
+
+Download This Plugin And Build This Page For Free
+
+[/wpbtr_cell]
+[wpbtr_cell class="xQn5xkDa-2" area="2 / 1 / 3 / 2" style="padding:10px;"]
+
+[wpfa5s icon="fa-cloud-download-alt" size="1x" color="#FF5722"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet
+
+[wpfa5s icon="fa-cloud-download-alt" size="1x" color="#FF5722"] Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit
+
+[wpfa5s icon="fa-cloud-download-alt" size="1x" color="#FF5722"] Duis sed odio sit amet nibh vulputate cursus a sit amet mauris
+
+[wpfa5s icon="fa-cloud-download-alt" size="1x" color="#FF5722"] Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio
+
+[wpfa5s icon="fa-cloud-download-alt" size="1x" color="#FF5722"] Sed non mauris vitae erat consequat auctor eu in elit
+
+[wpfa5s icon="fa-cloud-download-alt" size="1x" color="#FF5722"] Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos
+
+[/wpbtr_cell]
+[wpbtr_cell class="xQn5xkDa-3" area="2 / 2 / 3 / 3" style="padding:10px;"]
+
+insert video here
+
+Sign-Up Below. It's 100% Free
+
+[su_button style="flat" background="#ffd403" color="#000000" size="8" radius="0" icon="icon: download"]Yes, I Want To Sign-Up[/su_button]
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+[/wpbtr_rowchild]
+[/wpbtr_rows]
+
+[wpbtr_grid class="Dwv0uVNO" columns=".4fr 1.6fr" rows="auto auto" style="border:1px solid #e1e1e1;background-color:#f8f8f8;max-width:1100px;margin:auto;"]
+[wpbtr_cell class="Dwv0uVNO-1" area="1 / 1 / 3 / 2" style="padding:10px;"]
+
+insert photo here
+
+[/wpbtr_cell]
+[wpbtr_cell class="Dwv0uVNO-2" area="1 / 2 / 2 / 3" style="padding:10px;"]
+
+About My Wordpress Plugin
+
+[/wpbtr_cell]
+[wpbtr_cell class="Dwv0uVNO-3" area="2 / 2 / 3 / 3" style="padding:10px;"]
+
+Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+[wpbtr_grid class="KKyKhrsJ" columns="1fr 1fr 1fr 1fr 1fr" rows="auto" style="max-width:1100px;margin:auto;"]
+[wpbtr_cell class="KKyKhrsJ-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+Featured On :
+
+[/wpbtr_cell]
+[wpbtr_cell class="KKyKhrsJ-2" area="1 / 2 / 2 / 3" style="padding:10px;"]
+
+insert image here
+
+[/wpbtr_cell]
+[wpbtr_cell class="KKyKhrsJ-3" area="1 / 3 / 2 / 4" style="padding:10px;"]
+
+insert image here
+
+[/wpbtr_cell]
+[wpbtr_cell class="KKyKhrsJ-4" area="1 / 4 / 2 / 5" style="padding:10px;"]
+
+insert image here
+
+[/wpbtr_cell]
+[wpbtr_cell class="KKyKhrsJ-5" area="1 / 5 / 2 / 6" style="padding:10px;"]
+
+insert image here
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+
+
+
+[wpbtr_grid class="RhqmcPLz" columns="1fr 1fr" rows="auto auto" style="max-width:1100px;margin:auto;"]
+[wpbtr_cell class="RhqmcPLz-1" area="1 / 1 / 2 / 3" style="padding:10px;"]
+
+Build Landing Pages Like These Within Few Seconds
+
+[/wpbtr_cell]
+[wpbtr_cell class="RhqmcPLz-2" area="2 / 1 / 3 / 2" style="padding:10px;"]
+
+Nunc vulputate purus augue donec adipiscing purus bortis phasellus ornare dolor facilisis nibh.
+
+Condimentum odio ligula sollicitudin vulputate ac non nibh pellentesque sit amet, quam nelque molestie ligula rutrum tincidunt justo augue tristique lacus pulvinae leo au mauris egestas tempus donec arct tristique.
+
+Nunc vulputate purus augue donec adipiscing purus bortis phasellus ornare dolor facilisis nibh.
+
+Condimentum odio ligula sollicitudin vulputate ac non nibh pellentesque sit amet, quam nelque molestie ligula rutrum tincidunt justo augue tristique lacus pulvinae leo au mauris egestas tempus donec arct tristique.
+
+[/wpbtr_cell]
+[wpbtr_cell class="RhqmcPLz-3" area="2 / 2 / 3 / 3" style="padding:10px;"]
+
+Nunc vulputate purus augue donec adipiscing purus bortis phasellus ornare dolor facilisis nibh.
+
+Condimentum odio ligula sollicitudin vulputate ac non nibh pellentesque sit amet, quam nelque molestie ligula rutrum tincidunt justo augue tristique lacus pulvinae leo au mauris egestas tempus donec arct tristique.
+
+Nunc vulputate purus augue donec adipiscing purus bortis phasellus ornare dolor facilisis nibh.
+
+Condimentum odio ligula sollicitudin vulputate ac non nibh pellentesque sit amet, quam nelque molestie ligula rutrum tincidunt justo augue tristique lacus pulvinae leo au mauris egestas tempus donec arct tristique.
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+[wpbtr_rows class="xpLCDyne" rows="auto" style="border: 3px solid #e1e1e1;max-width:1000px;margin:auto;"]
+[wpbtr_rowchild class="xpLCDyne-1" style="padding:10px;"]
+
+Sign up below — It's 100% FREE
+Your email address is safe with us
+
+[su_button style="flat" background="#ffd403" color="#000000" size="10" radius="0" icon="icon: download"]Download This Now[/su_button]
+
+[/wpbtr_rowchild]
+[/wpbtr_rows]
+
+
+
+
+Build Landing Pages With Features Like These
+
+[wpbtr_grid class="WjMLvWaa" columns="1fr 1fr 1fr" rows="auto" style="max-width:1100px;margin:auto;"]
+[wpbtr_cell class="WjMLvWaa-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+insert image here
+
+Feature Name 1
+
+Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+
+[/wpbtr_cell]
+[wpbtr_cell class="WjMLvWaa-2" area="1 / 2 / 2 / 3" style="padding:10px;"]
+
+insert image here
+
+Feature Name 1
+
+Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+
+[/wpbtr_cell]
+[wpbtr_cell class="WjMLvWaa-3" area="1 / 3 / 2 / 4" style="padding:10px;"]
+
+insert image here
+
+Feature Name 1
+
+Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+[wpbtr_grid class="jGFMhxwb" columns="1fr 1fr 1fr" rows="auto" style="max-width:1100px;margin:auto;"]
+[wpbtr_cell class="jGFMhxwb-1" area="1 / 1 / 2 / 2" style="padding:10px;"]
+
+insert image here
+
+Feature Name 1
+
+Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+
+[/wpbtr_cell]
+[wpbtr_cell class="jGFMhxwb-2" area="1 / 2 / 2 / 3" style="padding:10px;"]
+
+insert image here
+
+Feature Name 1
+
+Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+
+[/wpbtr_cell]
+[wpbtr_cell class="jGFMhxwb-3" area="1 / 3 / 2 / 4" style="padding:10px;"]
+
+insert image here
+
+Feature Name 1
+
+Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+[wpbtr_grid class="mekwD5oz" columns="1fr 1fr" rows="auto auto" style="max-width:1100px;margin:auto;"]
+[wpbtr_cell class="mekwD5oz-1" area="1 / 1 / 2 / 3" style="padding:10px;"]
+
+Random Pro Points About This Plugin
+
+Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+
+[/wpbtr_cell]
+[wpbtr_cell class="mekwD5oz-2" area="2 / 1 / 3 / 2" style="padding:10px;"]
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[/wpbtr_cell]
+[wpbtr_cell class="mekwD5oz-3" area="2 / 2 / 3 / 3" style="padding:10px;"]
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[wpfa5s icon="fa-check" size="2x" color="green"] Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet.
+
+[/wpbtr_cell]
+[/wpbtr_grid]
+
+[wpbtr_rows class="SBbfhPZK" rows="auto" style="border: 3px solid #e1e1e1;background-color:#e1e1e1;"]
+[wpbtr_rowchild class="SBbfhPZK-1" style="padding:10px;"]
+
+Sign up below — It's 100% FREE
+Your email address is safe with us
+
+[su_button style="flat" background="#ffd403" color="#000000" size="10" radius="0" icon="icon: download"]Download This Now[/su_button]
+
+[/wpbtr_rowchild]
+[/wpbtr_rows]

@@ -1,0 +1,37 @@
+choose template - wp better custom width
+
+use these settings :
+
+Page Background Color :	#000000
+Page Style :	background-attachment:fixed;background-image:url(insert image here);background-repeat: no-repeat;background-size: cover;
+Container Width :	47%
+Container Padding :	15px
+Container Background Color :	rgb(255,255,255)
+Container CSS Style :	min-width:300px;margin-top:30px;border-radius:10px;
+
+
+page text: 
+
+Download This Wordpress Plugin Right Now
+
+insert video here
+
+insert optin form here
+
+[wd_hustle id="33" type="embedded"]
+
+Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+
+Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+Lorem ipsum dolor proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.
+
+[wpbtr_rows class="YMdutG4I" rows="auto" style="background-color:#dff2f6;"]
+[wpbtr_rowchild class="YMdutG4I-1" style="padding:10px;"]
+
+Get Your Copy Right Now
+
+[su_button style="flat" background="#26b746" color="#ffffff" size="13" radius="round" icon="icon: download" text_shadow="0px 1px 1px #000000"]Download This Wordpress Plugin[/su_button]
+
+[/wpbtr_rowchild]
+[/wpbtr_rows]

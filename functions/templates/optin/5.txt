@@ -1,0 +1,13 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr" rows="auto" style="max-width:300px; border: 1px solid #00cc99;background-color:#0097a7;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style="padding:20px;"]
+
+SIGN UP FOR OUR FREE UPDATES
+
+We will help you turn around your blog into something beautiful with few shortcodes !
+
+insert optin form here
+
+[wd_hustle id="3-field" type="embedded"]
+
+[/wpbtr_cell]
+[/wpbtr_grid]

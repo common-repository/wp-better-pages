@@ -1,0 +1,31 @@
+[wpbtr_grid class="wpbtrclass" columns="1fr" rows="auto" style="max-width:400px;padding:10px;background-color:#f8f9fa;"]
+[wpbtr_cell class="wpbtrclass-1" area="1 / 1 / 2 / 2" style=""]
+
+Table Of Contents
+
+1. Put heading 1 here
+
+Heading 2
+Heading 3
+Heading 4
+
+2. Put heading 2 here
+
+3. Put heading 3 here
+
+Heading 2
+Heading 3
+Heading 4
+
+4. Put heading 4 here
+
+5. Put heading 5 here
+
+6. Put heading 6 here
+
+Heading 2
+Heading 3
+Heading 4
+
+[/wpbtr_cell]
+[/wpbtr_grid]
